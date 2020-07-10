@@ -1,0 +1,11 @@
+Hospital-Samanpazari-03127462839-PTT Ankara Hastanesi
+Mall-Bilkent-03122660210-Ankuva
+Hospital-Sihhiye-03122637463-Hacettepe Universitesi Hastanesi
+Mall-Kizilay-0312847382-Ankamall
+Hospital-Samanpazari-03124739283-Ankara Numune Hastanesi
+Pharmacy-Bilkent-03122873654-Bilkent Eczanesi
+Hospital-Bahcelievler-03123958839-Baskent Universitesi Ankara Hastanesi
+Mall-Bilkent-03124736353-Bilkent Center
+Hospital-Bilkent-03122912525-Ankara Ataturk Egitim ve Arastirma Hastanesi
+Pharmacy-Bahcelievler-03123452632-Gunes
+Mall-Kizilay-03124536276-YKM

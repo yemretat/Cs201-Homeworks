@@ -1,0 +1,6 @@
+Bahcelievler-Kizilay-4
+Bilkent-Samanpazari-10
+Kizilay-Samanpazari-20
+Bahcelievler-Bilkent-12
+Bilkent-Kizilay-14
+Bahcelievler-Samanpazari-18
